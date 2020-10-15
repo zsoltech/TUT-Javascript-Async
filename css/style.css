@@ -1,0 +1,11 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#mainDiv {
+    width: 600px;
+    margin: 0 auto;
+}
+
+#mainDiv ul {
+    list-style: none;
+}
